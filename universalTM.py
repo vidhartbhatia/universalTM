@@ -8,7 +8,7 @@ now list all possible transition funtions in this form separated by ,
 state, what you read,what you write, Direction, state you go to"""
 
 "- represents the blank space"
-
+#this example tm checks for pallindromes
 tmqs1 = """q0,qaccept,qr,qendr,qreject,ql,qr2,qend2
 q0
 qaccept
